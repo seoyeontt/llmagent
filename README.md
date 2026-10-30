@@ -1,4 +1,4 @@
-LLM Application Development with LangChain
+## LLM Application Development with LangChain
 
 프로젝트 소개
 
